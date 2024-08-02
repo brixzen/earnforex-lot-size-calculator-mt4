@@ -1,4 +1,4 @@
-# EarnFore - Lot Size Calculator MT4
+# EarnForex - Lot Size Calculator MT4
 
 ### Original location
 
